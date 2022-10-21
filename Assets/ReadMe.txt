@@ -1,0 +1,2 @@
+I used packages for dotween and various vfxes in the project. I chose to use an abstract class, since you thought it was theoretically lacking in our interview, which is what I saw in the most healthy and logical way.
+ I took care to write as cleanly and clearly as possible. I hope it will be an enjoyable experience for you.
